@@ -18,8 +18,8 @@ This is a simple bouncing ball game implemented using SDL2, SDL2_ttf, and SDL2_i
 - CMake 3.28.3
 
 ## Screenshots
-[!image1](./screenshots/1.png)
-[!image1](./screenshots/2.png)
+![image1](screenshots/1.png)
+![image1](screenshots/2.png)
 
 ## Installation
 
