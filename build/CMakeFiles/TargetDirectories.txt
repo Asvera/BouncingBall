@@ -1,0 +1,3 @@
+/home/asvera/Tearl/codium/SDL2/BouncingBall/build/CMakeFiles/BouncingBall.dir
+/home/asvera/Tearl/codium/SDL2/BouncingBall/build/CMakeFiles/edit_cache.dir
+/home/asvera/Tearl/codium/SDL2/BouncingBall/build/CMakeFiles/rebuild_cache.dir
